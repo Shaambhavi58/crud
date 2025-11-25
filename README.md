@@ -9,6 +9,8 @@ This project explains CRUD (Create, Read, Update, Delete) operations using sprin
 -> run main method from SpringBootH2CRUDApplication.java as spring boot application.
 
 **Tools**
+
+
 Eclipse or IntelliJ IDEA (or any preferred IDE) with embedded Maven
 
 Maven (version >= 3.6.0)
